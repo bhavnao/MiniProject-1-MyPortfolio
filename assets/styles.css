@@ -1,0 +1,13 @@
+
+h1{ color:blue;
+}
+
+img {
+  width: 200px;
+  height: 200px;
+  background-color: lightblue;  
+  margin:20px;  
+  padding: 20px;  
+  border: 8px solid red;
+}
+
